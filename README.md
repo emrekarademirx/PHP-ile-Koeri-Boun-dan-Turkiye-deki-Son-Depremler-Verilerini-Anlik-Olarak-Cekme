@@ -1,0 +1,1 @@
+# PHP-ile-Koeri-Boun-dan-T-rkiye-deki-Son-Depremler-Verilerini-Anl-k-Olarak-ekme
